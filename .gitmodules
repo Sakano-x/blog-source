@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-volantis"]
+	path = themes/hexo-theme-volantis
+	url = https://github.com/Sakano-x/hexo-theme-volantis.git
